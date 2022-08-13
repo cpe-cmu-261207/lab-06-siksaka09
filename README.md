@@ -16,4 +16,4 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ได้ใน slide
 และสุดท้ายให้ deploy ใน [CMU Personal Webhosting](https://register-myweb.cmu.ac.th/)
 
-https://codesandbox.io/s/nostalgic-tereshkova-6s9gbb
+https://codesandbox.io/s/adoring-brook-3n7jdh?file=/components/Usercarddetail.jsx
